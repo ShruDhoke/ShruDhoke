@@ -4,5 +4,7 @@ I am Shruti, a DevOps Engineer,  passionate about deploying production-ready app
 I mostly work with Python, DevOps Tools, Cloud-based technologies, Databases and Monitoring Tools🚀
    
 📫 How to reach me?
-👨🏻‍💻Connect with me on LinkedIn 
+
+👨🏻‍💻Connect with me on linkedin.com/in/shruti-dhoke 
+
 ✨Shoot Me an dhokeshruti042@gmail.com
